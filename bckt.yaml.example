@@ -1,9 +1,9 @@
 title: My Blog
-base_url: https://yourusername.github.io/your-repo-name
+base_url: https://engineer-cm.github.io/observationblog
 homepage_posts: 20
 date_format: '[year]-[month]-[day]'
 paginate_tags: true
-default_timezone: +00:00
+default_timezone: +08:00
 theme: bckt3
 search:
   asset_path: assets/search/search-index.json
